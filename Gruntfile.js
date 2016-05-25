@@ -101,7 +101,9 @@ module.exports = function (grunt) {
 			release: {
 				tag_name: '<%= pkg.version %>',
 				name: 'Release <%= pkg.version %>',
-				body: grunt.file.read('release-notes.md'),
+				body: function() {
+					return grunt.file.read('release-notes.md');
+				},
 				draft: false,
 				prerelease: false,
 				asset: {
