@@ -1,3 +1,9 @@
+<a name="1.0.11"></a>
+## [1.0.11](https://github.com/hypeJunction/deploy_test/compare/1.0.10...v1.0.11) (2016-05-25)
+
+
+
+
 <a name="1.0.10"></a>
 ## [1.0.10](https://github.com/hypeJunction/deploy_test/compare/1.0.9...v1.0.10) (2016-05-25)
 
