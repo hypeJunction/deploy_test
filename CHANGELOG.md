@@ -1,3 +1,13 @@
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/hypeJunction/deploy_test/compare/1.0.1...v1.0.2) (2016-05-25)
+
+
+### Bug Fixes
+
+* **grunt:** better release notes ([0ec28a3](https://github.com/hypeJunction/deploy_test/commit/0ec28a3))
+
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/hypeJunction/deploy_test/compare/1.0.0...v1.0.1) (2016-05-25)
 
