@@ -5,7 +5,7 @@
 	<id>deploy_test</id>
 
 	<description>Deploy Test</description>
-	<version type="dist">1.0.9</version>
+	<version type="dist">1.0.10</version>
 
 	<author>Ismayil Khayredinov (inof@hypejunction.com)</author>
 	<website>http://www.hypejunction.com/</website>
