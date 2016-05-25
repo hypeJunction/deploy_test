@@ -1,0 +1,21 @@
+{
+	"name": "hypejunction/deploy_test",
+	"type": "elgg-plugin",
+	"description": "Deploy Test",
+	"homepage": "http://hypejunction.com",
+	"keywords": [
+		"elgg", "plugin"
+	],
+	"minimum-stability" : "dev",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Ismayil Khayredinov",
+			"email": "info@hypejunction.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
+
