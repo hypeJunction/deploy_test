@@ -101,14 +101,7 @@ module.exports = function (grunt) {
 			release: {
 				tag_name: '<%= pkg.version %>',
 				name: 'Release <%= pkg.version %>',
-				body: function () {
-					var release = grunt.file.read('release.md');
-
-					var conventionalChangelog = require('conventional-changelog');
-					conventionalChangelog({
-						preset: 'angular'
-					}).pipe();
-				},
+				body: grunt.file.read('release-notes.md'),
 				draft: false,
 				prerelease: false,
 				asset: {
